@@ -1,0 +1,57 @@
+Accessibility statement for ***
+
+This website is run by TMP (UK) Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to:
+
+· change colours, contrast levels and fonts
+
+· zoom in up to 300% without the text spilling off the screen
+
+· navigate most of the website using just a keyboard
+
+· navigate most of the website using speech recognition software
+
+· listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+
+We’ve also made the website text as simple as possible to understand. AbilityNet has advice on making your device easier to use if you have a disability.
+
+How accessible this website is
+
+We know some parts of this website aren’t fully accessible:
+
+· ***
+
+Reporting accessibility problems with this website
+
+We’re always looking to improve the accessibility of this website. If you find any problems that aren’t listed on this page or think we’re not meeting accessibility requirements, contact us giving details of the issue and any assistive technology you are using.
+
+Enforcement procedure
+
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).
+
+Technical information about this website’s accessibility
+
+The Ministry of Justice is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018. This website is partially compliant with the Web Content Accessibility Guidelines version 2.1 AA standard, due to the non-compliances listed below.
+
+Non-accessible content
+
+The content listed below is non-accessible for the following reasons.
+
+Non-compliance with the accessibility regulations
+
+WCAG *** ***
+
+Disproportionate burden We believe that addressing the following issues now would be a disproportionate burden within the meaning of the accessibility regulations. We will make another assessment at the time of the next accessibility review, likely to be ***.
+
+WCAG *** ***
+
+Content that’s not within the scope of the accessibility regulations
+
+Embedded videos hosted on YouTube, Vimeo and other media players include non-accessible elements that are native to the video platform. For example, this means buttons to play videos are not descriptive enough for screen reader users as the context of the video is not clear. This fails WCAG 2.4.6 AA (Headings and Labels).
+
+How we tested this website
+
+This website was last tested on ***. The test was carried out by TMP (UK) Ltd.
+
+All pages on the site were tested.
+
+This statement was prepared on ***. It was last updated on ***.
